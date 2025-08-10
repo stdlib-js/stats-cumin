@@ -42,7 +42,8 @@
     "@stdlib/stats-base-ndarray-cumin": "github:stdlib-js/stats-base-ndarray-cumin#main",
     "@stdlib/stats-base-ndarray-dcumin": "github:stdlib-js/stats-base-ndarray-dcumin#main",
     "@stdlib/stats-base-ndarray-scumin": "github:stdlib-js/stats-base-ndarray-scumin#main",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.4.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-float64": "^0.2.2",
