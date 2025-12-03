@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2192360`](https://github.com/stdlib-js/stdlib/commit/21923606030eb12678894c265023c6d265a89968) - **test:** explicitly serialize dtypes to strings _(by Athan Reines)_
 -   [`eaa916e`](https://github.com/stdlib-js/stdlib/commit/eaa916ee6edf015a3c759e4dba766a7d1e92b95f) - **docs:** update examples _(by Athan Reines)_
 -   [`1cd76d9`](https://github.com/stdlib-js/stdlib/commit/1cd76d97f12959e8ad4d346ea2b5a80c1464d88c) - **style:** re-enable lint rule _(by Athan Reines)_
 -   [`9880cf4`](https://github.com/stdlib-js/stdlib/commit/9880cf4c490d6e7f0299d04ffc4ddf2e69d6565e) - **test:** fix copy & paste error in description _(by Philipp Burckhardt)_
